@@ -13,7 +13,7 @@ language C++
 JOI過去問埋めのモチベーション向上のため
 
 #--------身分--------#
-https://atcoder.jp/user/anidas
+http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=anidas
 
 #--------更新-------#
 '17,10,23
